@@ -4,3 +4,5 @@ Please Find Our Services.
 
 Thanks And Regards,
 EPCORN
+
+https://stackoverflow.com/questions/49809231/how-to-email-a-html-file-using-smtplib-in-python
